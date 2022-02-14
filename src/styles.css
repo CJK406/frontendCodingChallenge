@@ -1,0 +1,23 @@
+.full_name{
+    font-size:20px;
+    font-weight: 600;
+}
+.stargazers_count{
+    color:brown
+}
+.fa-star.active{
+    color:rgba(206, 209, 24, 0.596)
+}
+.fa-trash{
+    color:rgb(223, 107, 107)
+}
+.list-group-item:hover{
+    background-color: rgba(0,0,0,0.05);
+}
+.fa {
+    font-size: 30px !important;
+}
+.nav-link .fa{
+    font-size: 20px !important;
+    margin-right: 15px;
+}
